@@ -1,4 +1,0 @@
-GIF89a
-<?php
-echo __DIR__; 
-?>
